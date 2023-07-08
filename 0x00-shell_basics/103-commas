@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1pFv | sed -e s/^//g' -e 's/$/,/g -e $ s/,$// | tr -d n; echo
+ls -xamp
